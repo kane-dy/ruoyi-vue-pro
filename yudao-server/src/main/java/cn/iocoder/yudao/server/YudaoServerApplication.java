@@ -27,8 +27,6 @@ public class YudaoServerApplication {
 //                .run(args);
 
         // 如果你碰到启动的问题，请认真阅读 https://doc.iocoder.cn/quick-start/ 文章
-        // 如果你碰到启动的问题，请认真阅读 https://doc.iocoder.cn/quick-start/ 文章
-        // 如果你碰到启动的问题，请认真阅读 https://doc.iocoder.cn/quick-start/ 文章
     }
 
 }
